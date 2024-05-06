@@ -8,6 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about iOS Development
 - 📫 How to reach me: muaztalha97@gmail.com
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=muaztalhaBulut&show_icons=true&theme=radical)
-
  
